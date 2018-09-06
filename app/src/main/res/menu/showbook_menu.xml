@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ShowBookActivity">
+    <item
+        android:id="@+id/Case_Edit"
+        android:title="Edit this Book"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Case_Delete"
+        android:title="Delete this Book"
+        app:showAsAction="never" />
+</menu>

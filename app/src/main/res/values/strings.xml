@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Book2</string>
+    <string name="unknown_Book">Unknown Book </string>
+
+    <string name="editor_activity_title_new_Book">Add a Book</string>
+
+    <string name="editor_activity_title_edit_Book">Edit Book</string>
+
+
+    <string name="editor_insert_Book_successful">Book saved</string>
+
+    <string name="editor_insert_Book_failed">Error with saving Book</string>
+
+    <string name="editor_update_Book_successful">Book updated</string>
+
+    <string name="editor_update_Book_failed">Error with updating Book</string>
+
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+    <string name="empty">empty</string>
+
+
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this Book?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_delete_Book_successful">Book deleted</string>
+
+    <string name="editor_delete_Book_failed">Error with deleting Book</string>
+</resources>
